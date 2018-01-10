@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/fluent-hc-4.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/httpclient-4.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/httpclient-cache-4.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/httpclient-win-4.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/httpcore-4.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/httpmime-4.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/jna-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/jna-platform-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/miglayout-4.0-swing.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/android.ninepatch.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/MainFrame/bin/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
